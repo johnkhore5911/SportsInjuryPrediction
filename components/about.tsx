@@ -27,7 +27,7 @@ export default function About() {
           <div className="flex justify-center">
             <motion.div whileHover={{ scale: 1.05 }} transition={{ type: "spring", stiffness: 400, damping: 10 }}>
               <Link
-                href="https://github.com/johnkhore5911/InjuryPredictionML"
+                href="https://github.com/johnkhore5911/InjuryPrediction"
                 target="_blank"
                 className="inline-flex items-center gap-2 bg-[#1E3A8A] hover:bg-[#F59E0B] text-white font-medium py-3 px-6 rounded-lg transition-all duration-300"
               >
