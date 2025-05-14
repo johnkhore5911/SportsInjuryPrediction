@@ -23,7 +23,7 @@ export default function Home() {
     setError(null)
 
     try {
-      const response = await axios.post("http://192.168.18.15:5000/predict", formData)
+      const response = await axios.post("https://injuryprediction.onrender.com/predict", formData)
       setPredictionResult(response.data)
     } catch (err) {
       setError("Error: Unable to fetch prediction. Please try again later.")
