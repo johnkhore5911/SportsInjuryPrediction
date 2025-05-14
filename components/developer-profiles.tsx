@@ -26,13 +26,13 @@ export default function DeveloperProfiles() {
     },
     {
       name: "John",
-      role: "Fixed bugs, built the website and mobile app, and handled frontend-backend integration.",
+      role: "Fixed bugs, built the website and mobile app, and handled frontend-backend integration. Deployed the model on Render for scalable API access.",
       bio: "3rd-year IT student at UIET PU, loves building user-friendly interfaces.",
       image: "/developer3.jpg",
     },
     {
       name: "Ankush",
-      role: "Deployed the model on Render for scalable API access.",
+      role: "Help in documentation and file making",
       bio: "3rd-year IT student at UIET PU, skilled in cloud deployment and backend systems.",
       image: "/developer4.jpg",
     },
