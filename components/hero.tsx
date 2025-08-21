@@ -31,7 +31,7 @@ export default function Hero() {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.7, delay: 0.2 }}
         >
-          Predict Sports Injuries with Machine Learning – A 6th Semester Project by UIET PU Students
+          Predict Sports Injuries with Machine Learning – A 7th Semester Project by UIET PU Students
         </motion.p>
 
         <motion.p

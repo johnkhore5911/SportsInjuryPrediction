@@ -20,7 +20,7 @@ export default function About() {
           <p className="text-lg text-gray-700 mb-8 leading-relaxed">
             InjuryPredictionML is a machine learning project by 4th-year IT students at UIET PU. It predicts sports
             injury likelihood and recovery time based on training metrics like sprinting distance and perceived
-            exertion. Built with Python, Scikit-learn, and Flask, this 6th-semester project showcases our passion for
+            exertion. Built with Python, Scikit-learn, and Flask, this 7th-semester project showcases our passion for
             coding and sports analytics.
           </p>
 
