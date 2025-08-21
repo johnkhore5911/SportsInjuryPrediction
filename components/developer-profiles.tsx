@@ -15,26 +15,26 @@ export default function DeveloperProfiles() {
     {
       name: "Aarish Garg",
       role: "Developed the machine learning model, focusing on data preprocessing and model training.",
-      bio: "3rd-year IT student at UIET PU with a passion for ML and sports analytics.",
-      image: "/developer1.jpg",
+      bio: "4th-year IT student at UIET PU with a passion for ML and sports analytics.",
+      image: "/aarish.png",
     },
     {
       name: "Lakhan Vashney",
       role: "Contributed to model development and feature engineering.",
-      bio: "3rd-year IT student at UIET PU, enthusiastic about applying ML to real-world problems.",
-      image: "/developer2.jpg",
+      bio: "4th-year IT student at UIET PU, enthusiastic about applying ML to real-world problems.",
+      image: "/lakhan.png",
     },
     {
       name: "John",
       role: "Fixed bugs, built the website and mobile app, and handled frontend-backend integration. Deployed the model on Render for scalable API access.",
-      bio: "3rd-year IT student at UIET PU, loves building user-friendly interfaces.",
-      image: "/developer3.jpg",
+      bio: "4th-year IT student at UIET PU, loves building user-friendly interfaces.",
+      image: "/john.png",
     },
     {
       name: "Ankush",
       role: "Help in documentation and file making",
-      bio: "3rd-year IT student at UIET PU, skilled in cloud deployment and backend systems.",
-      image: "/developer4.jpg",
+      bio: "4th-year IT student at UIET PU, enjoys organizing and documenting projects.",
+      image: "/ankush.png",
     },
   ]
 
@@ -50,7 +50,7 @@ export default function DeveloperProfiles() {
         >
           <h2 className="text-3xl md:text-4xl font-bold text-[#1E3A8A] mb-4">Meet the Team</h2>
           <p className="text-lg text-gray-700 max-w-3xl mx-auto">
-            Developed by 3rd-year IT students at UIET PU, passionate about coding, machine learning, and sports
+            Developed by 4th-year IT students at UIET PU, passionate about coding, machine learning, and sports
             analytics.
           </p>
         </motion.div>
