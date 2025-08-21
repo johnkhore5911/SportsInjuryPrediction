@@ -15,7 +15,7 @@ export default function Footer() {
           </Link>
         </div>
         <p className="text-sm">
-          © 2025 InjuryPredictionML | 6th Semester Project by UIET PU Students |
+          © 2025 InjuryPredictionML | 7th Semester Project by UIET PU Students |
           <Link
             href="https://github.com/johnkhore5911/InjuryPredictionML"
             target="_blank"
